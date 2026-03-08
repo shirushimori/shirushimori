@@ -1,4 +1,5 @@
-## About Me
+## 👨‍💻 About Me
 
-- 🔭 Focus: Learning & building fundamentals  
-- 🌱 Learning: Flutter, Modern C++
+- 🔭 I’m currently focused on **learning and strengthening core CS concepts**
+- 🌱 Exploring **Flutter** for cross-platform apps
+- ⚙️ Learning **Modern C++** and improving system programming skills
