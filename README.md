@@ -1,8 +1,4 @@
-## 👨‍💻 About Me
+## About Me
 
-🔭 **Current Focus**  
-- Deepening my programming fundamentals
-
-🌱 **Currently Learning**
-- Flutter
-- Modern C++
+- Focus: Learning & building fundamentals  
+- Learning: Flutter, Modern C++
