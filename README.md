@@ -1,3 +1,4 @@
- About Me
-    🔭 Current Focus: Just Studying
-    🌱 Currently Learning: Flutter, Modern C++
+## 👨‍💻 About Me
+
+- 🔭 **Current Focus:** Studying and improving core programming skills  
+- 🌱 **Currently Learning:** Flutter & Modern C++
