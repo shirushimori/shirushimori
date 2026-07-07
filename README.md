@@ -35,9 +35,7 @@
 &nbsp; 〕
 </div>
 
----
-<br> </br>
----
+
 <br>
 
 <div align="center" style="margin-bottom:20px">
