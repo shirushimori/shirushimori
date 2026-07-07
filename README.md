@@ -24,7 +24,7 @@
 
 <div align="center">
 〔 &nbsp;
-<a href="https://discord.com/users/1168899693447741472">
+<a href="https://discord.com/users/shirushi_mori">
 <img src="https://img.shields.io/badge/Discord-しるし-5865F2?style=flat-square&logo=discord&logoColor=white&labelColor=0a0a0f" />
 </a>
 &nbsp;
@@ -36,6 +36,8 @@
 </div>
 
 
+---
+---
 <br>
 
 <div align="center" style="margin-bottom:20px">
