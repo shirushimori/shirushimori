@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://c.tenor.com/PRnWQJQXNBIAAAAd/tenor.gif" width="100%" />
 </div>
@@ -7,7 +8,7 @@
 <div align="center">
   <b>cs student · logic artist · algorithm programmer</b>
   <br>
-  <sub>finding in my lost life , maybe</sub>
+  <sub>finding my lost life, maybe.</sub>
 </div>
 
 <br>
@@ -22,40 +23,56 @@
 
 ---
 
+
 <div align="center">
-〔 &nbsp;
+
 <a href="https://discord.com/users/shirushi_mori">
-<img src="https://img.shields.io/badge/Discord-しるし-5865F2?style=flat-square&logo=discord&logoColor=white&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/Discord-しるし-5865F2?style=flat-square&logo=discord&logoColor=white&labelColor=0a0a0f" />
 </a>
-&nbsp;
-&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:morishirushi@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-しるし-764BFF?style=flat-square&logo=gmail&logoColor=white&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/Gmail-しるし-764BFF?style=flat-square&logo=gmail&logoColor=white&labelColor=0a0a0f" />
 </a>
-&nbsp; 〕
+
 </div>
 
 ---
-<br>
 
-<div align="center" style="margin-bottom:20px">
-  <img src="https://img.shields.io/badge/OS....-58E1FF?style=flat-square&logo=hyprland&logoColor=black&labelColor=0a0a0f" />
+## Upcoming Projects
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/shirushimori/shirushimori/refs/heads/main/assets/upcomming_projects.jpg"
+    width="320"
+    alt="Upcoming Project"
+  />
 </div>
+
+
+
+<div align="center">
+  <img src="https://img.shields.io/badge/OS-58E1FF?style=flat-square&logo=hyprland&logoColor=black&labelColor=0a0a0f" />
+</div>
+
+<br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white&labelColor=0a0a0f" />
   &nbsp;
   <img src="https://img.shields.io/badge/Hyprland-58E1FF?style=flat-square&logo=hyprland&logoColor=black&labelColor=0a0a0f" />
   &nbsp;
-  <img src="https://img.shields.io/badge/KDE-58E1FF?style=flat-square&logo=kde&logoColor=black&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/KDE_Plasma-58E1FF?style=flat-square&logo=kde&logoColor=black&labelColor=0a0a0f" />
 </div>
 
 <br>
 
 ---
-<div align="center" style="margin-bottom:20px">
+
+<div align="center">
   <img src="https://img.shields.io/badge/Applications-58E1FF?style=flat-square&logo=appimage&logoColor=black&labelColor=0a0a0f" />
 </div>
+
+<br>
 
 <div align="center">
   <picture>
@@ -65,8 +82,9 @@
 
 <br>
 
-<br>
+---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=shirushimori&style=flat-square&color=e040fb&labelColor=0a0a0f" />
 </div>
+
