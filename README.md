@@ -41,11 +41,12 @@
 ## Upcoming Projects
 
 <div align="center">
-  <img
+  <!-- <img
     src="https://raw.githubusercontent.com/shirushimori/shirushimori/refs/heads/main/assets/upcomming_projects.jpg"
     width="320"
     alt="Upcoming Project"
-  />
+  /> -->
+  Can't List RN!...
 </div>
 
 
