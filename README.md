@@ -35,7 +35,11 @@
 </a>
 
 </div>
-
+<div align="center">
+  <a href="./assets/resume.pdf">
+    <img src="https://img.shields.io/badge/View%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Resume">
+  </a>
+</div>
 ---
 
 ## Upcoming Projects
