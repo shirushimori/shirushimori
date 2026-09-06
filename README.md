@@ -1,4 +1,10 @@
+'''// WTF ??
+#include <stdio.h>
+#define H printf("Hello");
 
+int main() {
+    H;
+}'''
 <div align="center">
   <img src="https://c.tenor.com/PRnWQJQXNBIAAAAd/tenor.gif" width="100%" />
 </div>
